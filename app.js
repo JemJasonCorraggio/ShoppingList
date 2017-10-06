@@ -52,4 +52,4 @@ function renderList(state, element){
         "</div></li>";
     });
     element.html(itemsHTML);
-}
+} 
